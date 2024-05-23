@@ -37,7 +37,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 14,
+            "applications_count": 15,
             "location_regions": {
                 "data": []
             },
@@ -311,7 +311,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 33,
+            "applications_count": 34,
             "location_regions": {
                 "data": []
             },
@@ -408,7 +408,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 54,
+            "applications_count": 55,
             "location_regions": {
                 "data": []
             },
@@ -1155,7 +1155,7 @@
                 "min": 19,
                 "max": 31
             },
-            "applications_count": 10,
+            "applications_count": 13,
             "location_regions": {
                 "data": []
             },
@@ -1662,7 +1662,7 @@
                 "min": 14,
                 "max": 28
             },
-            "applications_count": 46,
+            "applications_count": 48,
             "location_regions": {
                 "data": []
             },
@@ -2152,7 +2152,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 43,
+            "applications_count": 46,
             "location_regions": {
                 "data": []
             },
@@ -2644,7 +2644,7 @@
                 "min": 9,
                 "max": 13
             },
-            "applications_count": 64,
+            "applications_count": 68,
             "location_regions": {
                 "data": []
             },
@@ -3709,7 +3709,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 12,
+            "applications_count": 13,
             "location_regions": {
                 "data": []
             },
@@ -3958,7 +3958,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 181,
+            "applications_count": 182,
             "location_regions": {
                 "data": []
             },
@@ -4594,7 +4594,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 480,
+            "applications_count": 481,
             "location_regions": {
                 "data": []
             },
@@ -4753,7 +4753,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 104,
+            "applications_count": 105,
             "location_regions": {
                 "data": []
             },
@@ -5397,7 +5397,7 @@
             ],
             "min_salary": 1700,
             "max_salary": 2100,
-            "published_at": 1716479592,
+            "published_at": 1716481040,
             "response_time_in_days": {
                 "min": null,
                 "max": null
@@ -6021,7 +6021,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 26,
+            "applications_count": 28,
             "location_regions": {
                 "data": []
             },
@@ -6560,7 +6560,7 @@
                 "min": 1,
                 "max": 10
             },
-            "applications_count": 20,
+            "applications_count": 21,
             "location_regions": {
                 "data": []
             },
@@ -6934,7 +6934,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 229,
+            "applications_count": 230,
             "location_regions": {
                 "data": []
             },
@@ -7072,7 +7072,7 @@
                 "min": 29,
                 "max": 35
             },
-            "applications_count": 50,
+            "applications_count": 53,
             "location_regions": {
                 "data": []
             },
@@ -7175,7 +7175,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 135,
+            "applications_count": 137,
             "location_regions": {
                 "data": []
             },
@@ -7298,7 +7298,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 129,
+            "applications_count": 133,
             "location_regions": {
                 "data": []
             },
@@ -7830,7 +7830,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 28,
+            "applications_count": 31,
             "location_regions": {
                 "data": []
             },
@@ -8813,7 +8813,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 142,
+            "applications_count": 143,
             "location_regions": {
                 "data": []
             },
@@ -9026,7 +9026,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 264,
+            "applications_count": 269,
             "location_regions": {
                 "data": []
             },
@@ -9143,7 +9143,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 330,
+            "applications_count": 331,
             "location_regions": {
                 "data": []
             },
@@ -9290,7 +9290,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 80,
+            "applications_count": 82,
             "location_regions": {
                 "data": []
             },
@@ -9551,7 +9551,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 1066,
+            "applications_count": 1071,
             "location_regions": {
                 "data": []
             },
@@ -9962,7 +9962,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 18,
+            "applications_count": 19,
             "location_regions": {
                 "data": [
                     {
@@ -10407,7 +10407,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 284,
+            "applications_count": 285,
             "location_regions": {
                 "data": []
             },
@@ -10841,7 +10841,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 94,
+            "applications_count": 95,
             "location_regions": {
                 "data": []
             },
@@ -11960,7 +11960,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 45,
+            "applications_count": 46,
             "location_regions": {
                 "data": []
             },
@@ -12553,7 +12553,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 90,
+            "applications_count": 91,
             "location_regions": {
                 "data": [
                     {
@@ -12966,7 +12966,7 @@
                 "min": 2,
                 "max": 8
             },
-            "applications_count": 527,
+            "applications_count": 531,
             "location_regions": {
                 "data": []
             },

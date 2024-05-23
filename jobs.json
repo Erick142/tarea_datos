@@ -37,7 +37,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 13,
+            "applications_count": 14,
             "location_regions": {
                 "data": []
             },
@@ -650,7 +650,7 @@
                 "min": 11,
                 "max": 21
             },
-            "applications_count": 71,
+            "applications_count": 72,
             "location_regions": {
                 "data": []
             },
@@ -785,7 +785,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 188,
+            "applications_count": 189,
             "location_regions": {
                 "data": []
             },
@@ -1012,7 +1012,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 0,
+            "applications_count": 1,
             "location_regions": {
                 "data": []
             },
@@ -1155,7 +1155,7 @@
                 "min": 19,
                 "max": 31
             },
-            "applications_count": 3,
+            "applications_count": 10,
             "location_regions": {
                 "data": []
             },
@@ -3709,7 +3709,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 11,
+            "applications_count": 12,
             "location_regions": {
                 "data": []
             },
@@ -4753,7 +4753,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 103,
+            "applications_count": 104,
             "location_regions": {
                 "data": []
             },
@@ -5365,6 +5365,162 @@
         }
     },
     {
+        "id": "full-stack-angular-java-lima-innovation-lab-remote",
+        "type": "job",
+        "attributes": {
+            "title": "Full-Stack Angular + Java",
+            "description_headline": "Requerimientos del cargo",
+            "description": "<div>✅Estamos buscando un Full Stack Senior con mínimo 6 años de experiencia trabajando en equipos de desarrollo.<br>✅Es fundamental que cuentes con conocimientos sólidos desarrollo Javascript con Angular 5+ (NodeJS 14 +), desarrollo de vistas con Bootstrap 4+ y 5+ (HTML5) , desarrollo con Spring Boot 2, 3+ y Spring 4+ <br>✅Por el lado del backend, es importante que cuentes con conocimientos en Java 8, 11, 17+ <br>✅ Necesitamos también conocimientos en Mybatis y Spring JDBC, Versionamiento con Subversión SVN, Git y Tomcat 8.5, 9, 10+<br>✅ Experiencia trabajando con Base de Datos Oracle <br>✅ Conocimiento en IDE Eclipse (backend) y Visual Studio Code (frontend) <br>✅ Experiencia en Desarrollo de proyectos con Maven <br> ✅ Finalmente necesitamos que cuentes con disponibilidad para trabajar de forma presencial como máximo 1 vez a la semana (Ocasional).</div>",
+            "projects": "<div>En Lilab atendemos clientes locales y del extranjero en nuestras líneas de negocio de desarrollo de software a medida y de startup engine, agregando valor a los negocios de nuestros clientes a través de tecnología y potenciando los próximos unicornios de la región. Nos caracterizamos por ser un equipo sumamente innovador, colaborativo y con un muy buen ambiente de trabajo. </div>",
+            "functions_headline": "Funciones del cargo",
+            "functions": "<div>En esta oportunidad nos encontramos buscando un Full Stack Developer con conocimientos en Angular y Java.</div><div>Si te interesa sumarte a un proyecto en una empresa siderúrgica, esta oportunidad puede ser para ti.<br>💡¿Cuáles serán tus principales responsabilidades?</div><div>◼️Análisis y programación de los desarrollos asignados<br>◼️Mantenimiento de la plataforma<br>◼️Participación activa en ceremonias Agile</div>",
+            "benefits_headline": "Condiciones",
+            "benefits": "<div>¡Únete y desarrolla tu potencial con nosotros!</div><ul><li>Trabajo remoto 100% flexible 🌍</li><li>Planilla desde el primer día en régimen Pequeña Empresa para Perú y modalidad contractor para otros países💼</li><li>Feriados locales por país y 15 días de vacaciones pagas 🏖️</li><li>Seguro de Salud Privado con Rimac🏥</li><li>Apoyo psicológico constante 💆‍♂️</li><li>Equipo global y colaborativo 🌐</li><li>Día libre en tu cumpleaños y más beneficios 🎉</li></ul><div>¡Tu éxito y bienestar son nuestra prioridad! ¡Únete y crece con nosotros! </div>",
+            "desirable_headline": "Opcionales",
+            "desirable": "",
+            "remote": true,
+            "remote_modality": "remote_local",
+            "remote_zone": null,
+            "countries": [
+                "Remote"
+            ],
+            "lang": "lang_not_specified",
+            "category_name": "Programming",
+            "perks": [
+                "wellness",
+                "flexible_hours",
+                "internal_talks",
+                "health_coverage",
+                "informal_dresscode",
+                "shopping_discounts",
+                "vacation_on_birthday"
+            ],
+            "min_salary": 1700,
+            "max_salary": 2100,
+            "published_at": 1716479592,
+            "response_time_in_days": {
+                "min": null,
+                "max": null
+            },
+            "applications_count": 95,
+            "location_regions": {
+                "data": []
+            },
+            "location_tenants": {
+                "data": [
+                    {
+                        "id": 3,
+                        "type": "location_tenant"
+                    }
+                ]
+            },
+            "location_cities": {
+                "data": []
+            },
+            "modality": {
+                "data": {
+                    "id": 1,
+                    "type": "modality"
+                }
+            },
+            "seniority": {
+                "data": {
+                    "id": 4,
+                    "type": "seniority"
+                }
+            },
+            "tags": {
+                "data": [
+                    {
+                        "id": 104,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 11,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 12,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 53,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 161,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 225,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 299,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 1,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 588,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 2,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 49,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 65,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 58,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 74,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 132,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 167,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 563,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 587,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 129,
+                        "type": "tag"
+                    }
+                ]
+            },
+            "company": {
+                "data": {
+                    "id": 8255,
+                    "type": "company"
+                }
+            }
+        },
+        "links": {
+            "public_url": "https://www.getonbrd.com/jobs/full-stack-angular-java-lima-innovation-lab-remote"
+        }
+    },
+    {
         "id": "full-stack-semi-senior-tcit-santiago-f5a2",
         "type": "job",
         "attributes": {
@@ -5865,7 +6021,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 24,
+            "applications_count": 26,
             "location_regions": {
                 "data": []
             },
@@ -6217,162 +6373,6 @@
         }
     },
     {
-        "id": "full-stack-angular-java-lima-innovation-lab-remote",
-        "type": "job",
-        "attributes": {
-            "title": "Full-Stack Angular + Java",
-            "description_headline": "Requerimientos del cargo",
-            "description": "<div>✅Estamos buscando un Full Stack Senior con mínimo 6 años de experiencia trabajando en equipos de desarrollo.<br>✅Es fundamental que cuentes con conocimientos sólidos desarrollo Javascript con Angular 5+ (NodeJS 14 +), desarrollo de vistas con Bootstrap 4+ y 5+ (HTML5) , desarrollo con Spring Boot 2, 3+ y Spring 4+ <br>✅Por el lado del backend, es importante que cuentes con conocimientos en Java 8, 11, 17+ <br>✅ Necesitamos también conocimientos en Mybatis y Spring JDBC, Versionamiento con Subversión SVN, Git y Tomcat 8.5, 9, 10+<br>✅ Experiencia trabajando con Base de Datos Oracle <br>✅ Conocimiento en IDE Eclipse (backend) y Visual Studio Code (frontend) <br>✅ Experiencia en Desarrollo de proyectos con Maven <br> ✅ Finalmente necesitamos que cuentes con disponibilidad para trabajar de forma presencial como máximo 1 vez a la semana (Ocasional).</div>",
-            "projects": "<div>En Lilab atendemos clientes locales y del extranjero en nuestras líneas de negocio de desarrollo de software a medida y de startup engine, agregando valor a los negocios de nuestros clientes a través de tecnología y potenciando los próximos unicornios de la región. Nos caracterizamos por ser un equipo sumamente innovador, colaborativo y con un muy buen ambiente de trabajo. </div>",
-            "functions_headline": "Funciones del cargo",
-            "functions": "<div>En esta oportunidad nos encontramos buscando un Full Stack Developer con conocimientos en Angular y Java.</div><div>Si te interesa sumarte a un proyecto en una empresa siderúrgica, esta oportunidad puede ser para ti.<br>💡¿Cuáles serán tus principales responsabilidades?</div><div>◼️Análisis y programación de los desarrollos asignados<br>◼️Mantenimiento de la plataforma<br>◼️Participación activa en ceremonias Agile</div>",
-            "benefits_headline": "Condiciones",
-            "benefits": "<div>¡Únete y desarrolla tu potencial con nosotros!</div><ul><li>Trabajo remoto 100% flexible 🌍</li><li>Planilla desde el primer día en régimen Pequeña Empresa para Perú y modalidad contractor para otros países💼</li><li>Feriados locales por país y 15 días de vacaciones pagas 🏖️</li><li>Seguro de Salud Privado con Rimac🏥</li><li>Apoyo psicológico constante 💆‍♂️</li><li>Equipo global y colaborativo 🌐</li><li>Día libre en tu cumpleaños y más beneficios 🎉</li></ul><div>¡Tu éxito y bienestar son nuestra prioridad! ¡Únete y crece con nosotros! </div>",
-            "desirable_headline": "Opcionales",
-            "desirable": "",
-            "remote": false,
-            "remote_modality": "hybrid",
-            "remote_zone": null,
-            "countries": [
-                "Peru"
-            ],
-            "lang": "lang_not_specified",
-            "category_name": "Programming",
-            "perks": [
-                "wellness",
-                "flexible_hours",
-                "internal_talks",
-                "health_coverage",
-                "informal_dresscode",
-                "shopping_discounts",
-                "vacation_on_birthday"
-            ],
-            "min_salary": 1700,
-            "max_salary": 2100,
-            "published_at": 1716407486,
-            "response_time_in_days": {
-                "min": null,
-                "max": null
-            },
-            "applications_count": 95,
-            "location_regions": {
-                "data": []
-            },
-            "location_tenants": {
-                "data": []
-            },
-            "location_cities": {
-                "data": [
-                    {
-                        "id": 130,
-                        "type": "location_city"
-                    }
-                ]
-            },
-            "modality": {
-                "data": {
-                    "id": 1,
-                    "type": "modality"
-                }
-            },
-            "seniority": {
-                "data": {
-                    "id": 4,
-                    "type": "seniority"
-                }
-            },
-            "tags": {
-                "data": [
-                    {
-                        "id": 104,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 11,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 12,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 53,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 161,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 225,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 299,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 1,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 588,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 2,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 49,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 65,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 58,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 74,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 132,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 167,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 563,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 587,
-                        "type": "tag"
-                    },
-                    {
-                        "id": 129,
-                        "type": "tag"
-                    }
-                ]
-            },
-            "company": {
-                "data": {
-                    "id": 8255,
-                    "type": "company"
-                }
-            }
-        },
-        "links": {
-            "public_url": "https://www.getonbrd.com/jobs/full-stack-angular-java-lima-innovation-lab-remote"
-        }
-    },
-    {
         "id": "especialista-en-administracion-de-infraestruc-lilab-remote-3ffa",
         "type": "job",
         "attributes": {
@@ -6560,7 +6560,7 @@
                 "min": 1,
                 "max": 10
             },
-            "applications_count": 19,
+            "applications_count": 20,
             "location_regions": {
                 "data": []
             },
@@ -7072,7 +7072,7 @@
                 "min": 29,
                 "max": 35
             },
-            "applications_count": 49,
+            "applications_count": 50,
             "location_regions": {
                 "data": []
             },
@@ -7175,7 +7175,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 132,
+            "applications_count": 135,
             "location_regions": {
                 "data": []
             },
@@ -9026,7 +9026,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 263,
+            "applications_count": 264,
             "location_regions": {
                 "data": []
             },
@@ -9551,7 +9551,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 1064,
+            "applications_count": 1066,
             "location_regions": {
                 "data": []
             },
@@ -10407,7 +10407,7 @@
                 "min": null,
                 "max": null
             },
-            "applications_count": 281,
+            "applications_count": 284,
             "location_regions": {
                 "data": []
             },
@@ -11945,10 +11945,10 @@
             "remote_modality": "hybrid",
             "remote_zone": null,
             "countries": [
-                "Colombia",
+                "Chile",
                 "Peru",
-                "Mexico",
-                "Chile"
+                "Colombia",
+                "Mexico"
             ],
             "lang": "lang_not_specified",
             "category_name": "Programming",
@@ -12966,7 +12966,7 @@
                 "min": 2,
                 "max": 8
             },
-            "applications_count": 525,
+            "applications_count": 527,
             "location_regions": {
                 "data": []
             },

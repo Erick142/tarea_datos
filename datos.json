@@ -1,0 +1,295 @@
+[
+    {
+        "id": "java-developer-con-sre-leniolabs_-remote",
+        "type": "job",
+        "attributes": {
+            "title": "Java Developer con SRE",
+            "description_headline": "Skill requerido ",
+            "description": "<ul><li><strong>+4 años de experiencia en programación con Java u otro lenguaje de programación orientado a objetos - Indispensable</strong></li><li>Construcción y despliegue de pipelines con Maven/Gradle</li><li><strong>Experiencia en programación con Python u otro lenguaje - Indispensable</strong></li><li>Experiencia con infraestructura como código</li><li>Experiencia/conocimiento sobre cómo funcionan los servicios Serverless</li><li>Experiencia con servicios gestionados y no gestionados en AWS</li><li>Experiencia/conocimiento de VPCs</li><li>Buenas habilidades de comunicación </li><li><strong>Conocimiento en prácticas y principios de SRE.</strong></li><li><strong>Experiencia con plataformas de nube en especifico con AWS - Indispensable</strong></li><li>Experiencia en el desarrollo de Microservicios.</li><li><strong>Contar con un nivel de Inglés oral y escrito B2/C1 (intermedio /avanzado) - Indispensable</strong></li><li>Trabajar de forma independiente, priorizando tareas para cumplir con las fechas límite, prestando fuerte atención al detalle.</li><li>Pensamiento crítico y capacidad de resolver problemas.</li><li>Manejo de metodologías ágiles</li><li>Capacidad de trabajar en equipo</li></ul>",
+            "projects": "<p>Leniolabs es una empresa de desarrollo de software con sedes en Argentina, Chile, España y USA. Colaboramos en el desarrollo de software de nuestros clientes que se encuentran principalmente en San Francisco, sumándose con nuestros equipos y estructura y trabajando directamente con ellos.</p><p>Nuestra experiencia se basa fuertemente en el desarrollo frontend con lenguajes como Javascript, React y Angular. También trabajamos algunos proyectos en backend con lenguajes como Ruby on Rails, Python (classifiers y big data structures) y NodeJS.</p><p>Valoramos a las/los desarrolladoras/es dinámicas/os en el aprendizaje de nuevas tecnologías para utilizarlas en los proyectos.</p><p>Trabajamos con equipos distribuidos, de manera remota y colaborativa, utilizando herramientas como Slack, Zoom, HO, Jira, etc. </p>",
+            "functions_headline": "Job functions",
+            "functions": "<p>Actualmente estamos en la búsqueda de un/una Java Developer que se quiera unir nuestro equipo de Leniolabs para trabajar de la mano con uno de nuestros clientes mas importantes que se encuentra ubicado en USA. Buscamos personas con muchas ganas de aprender, de sumar, y que tenga buen manejo del trabajo en equipo.</p><ul><li>Se trabajará en el departamento de desarrollo de tecnología de Leniolabs, pero el proyecto es de uno de nuestros clientes en USA.</li><li>Trabajo en equipo - liderazgo.</li><li>Será responsable de avanzar en los diferentes requerimientos del cliente, junto con el equipo.</li><li>Su trabajo consiste en hacer que las tareas se realicen utilizando todos los recursos disponibles (tangibles e intangibles).</li><li>Contamos internamente con personas capacitadas para realizar QA, Líder de proyecto, etc, por lo cual tendrá la responsabilidad de adaptarse a cada equipo</li></ul>",
+            "benefits_headline": "Beneficios ",
+            "benefits": "<ul><li>Metlife (Chile) - Para toda la familia</li><li>Salario dolarizado (Argentina)</li><li>100% Remoto. Aunque contamos con lugares de trabajo en Argentina y Chile</li><li>Posibilidad de recibir 2 bonos al año</li><li>2 revisiones salariales al año</li><li>Clases de inglés</li><li>Equipamiento Apple</li><li>Cursos UDEMY</li><li>Budget para compra de libros</li><li>Budget para compra de materiales de trabajo</li></ul>",
+            "desirable_headline": "Desirable Skills",
+            "desirable": "<ul><li>Conocimiento de bases de datos no SQL y relacionales</li></ul>",
+            "remote": true,
+            "remote_modality": "remote_local",
+            "remote_zone": null,
+            "countries": [
+                "Remote"
+            ],
+            "lang": "en",
+            "category_name": "Programming",
+            "perks": [
+                "internal_talks",
+                "computer_provided"
+            ],
+            "min_salary": null,
+            "max_salary": null,
+            "published_at": 1715780514,
+            "response_time_in_days": {
+                "min": null,
+                "max": null
+            },
+            "applications_count": 35,
+            "location_regions": {
+                "data": []
+            },
+            "location_tenants": {
+                "data": [
+                    {
+                        "id": 2,
+                        "type": "location_tenant"
+                    },
+                    {
+                        "id": 6,
+                        "type": "location_tenant"
+                    },
+                    {
+                        "id": 1,
+                        "type": "location_tenant"
+                    },
+                    {
+                        "id": 3,
+                        "type": "location_tenant"
+                    },
+                    {
+                        "id": 20,
+                        "type": "location_tenant"
+                    }
+                ]
+            },
+            "location_cities": {
+                "data": []
+            },
+            "modality": {
+                "data": {
+                    "id": 1,
+                    "type": "modality"
+                }
+            },
+            "seniority": {
+                "data": {
+                    "id": 4,
+                    "type": "seniority"
+                }
+            },
+            "tags": {
+                "data": [
+                    {
+                        "id": 2,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 18,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 34,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 119,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 129,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 131,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 132,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 156,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 235,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 267,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 278,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 299,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 583,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 831,
+                        "type": "tag"
+                    }
+                ]
+            },
+            "company": {
+                "data": {
+                    "id": 4161,
+                    "type": "company"
+                }
+            }
+        },
+        "links": {
+            "public_url": "https://www.getonbrd.com/jobs/java-developer-con-sre-leniolabs_-remote"
+        }
+    },
+    {
+        "id": "java-angular-fullstack-developer-ensitech-remote",
+        "type": "job",
+        "attributes": {
+            "title": "Java Angular Full-Stack Developer",
+            "description_headline": "Qualifications and requirements",
+            "description": "<ul><li>At least 8 years of experience in IT overall.</li><li>Strong proficiency in Java development, with 4+ years of hands-on experience.</li><li>2+ years of experience with TypeScript front-end frameworks, preferably Angular 8+.</li><li>Experience with Oracle and/or Postgres databases, including database design, query optimization, and interaction from an application developer perspective.</li><li>Familiarity with cloud deployment and CI/CD tools such as Jenkins.</li><li>Solid understanding of software development best practices, including TDD, design patterns, and clean code principles.</li><li>Excellent communication skills, both written and verbal.</li><li>Experience with agile methodologies such as Scrum or XP.</li><li>Ability to work independently and as part of a team in a fast-paced environment.</li></ul>",
+            "projects": "<blockquote><h3><h3>Join #Ensiteam!</h3></h3>We are a company focused on custom software development and we have been in the market for more than 19 years. At Ensitech we are dedicated to finding highly specialized talent to work with large companies in the United States, Europe and Canada.<p>Each one of our collaborators works with different teams and colleagues around the world, in the design and commercialization of software.</p><p>We are looking for a Senior Java Full Stack Developer with strong Angular skills and experience working with Oracle and/or Postgres databases. The ideal candidate will have a solid background in both front-end and back-end development, along with proficiency in database interaction.</p></blockquote>",
+            "functions_headline": "Job functions",
+            "functions": "<ul><li>Develop and maintain high-quality software solutions using Java and Angular.</li><li>Design and implement RESTful APIs and web services using Java 11+ and Spring Boot (Preferent Java 17).</li><li>Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.</li><li>Ensure code quality through testing, code reviews, and adherence to best practices.</li><li>Work closely with database administrators to integrate and interact with Oracle and Postgres databases from the application layer.</li><li>Deploy applications to cloud platforms such as Kubernetes, PCF, GCP, Azure, or AWS.</li><li>Participate in agile ceremonies, including sprint planning, daily stand-ups, and retrospectives.</li><li>Mentor junior developers and provide technical guidance as needed.</li></ul>",
+            "benefits_headline": "Conditions",
+            "benefits": "<ul><li>🌐100% remote opportunity.</li><li>💸Competitive salary and benefits.</li><li>🎁Custom benefit package aligned to your experience and your needs.</li><li>🚀Working with foreign clients.</li></ul>",
+            "desirable_headline": "Desirable skills",
+            "desirable": "<ul><li>knowledge of ServiceNow, Terraform, Ansible, Kafka.</li><li>Previous experience in a leadership role or leading feature tracks.</li><li>Familiarity with software release management tools like Pivotal Tracker, JIRA, or Rally.</li></ul>",
+            "remote": true,
+            "remote_modality": "remote_local",
+            "remote_zone": null,
+            "countries": [
+                "Remote"
+            ],
+            "lang": "es",
+            "category_name": "Programming",
+            "perks": [
+                "pet_friendly",
+                "flexible_hours",
+                "computer_provided",
+                "informal_dresscode",
+                "beverages_and_snacks"
+            ],
+            "min_salary": null,
+            "max_salary": null,
+            "published_at": 1715204833,
+            "response_time_in_days": {
+                "min": null,
+                "max": null
+            },
+            "applications_count": 20,
+            "location_regions": {
+                "data": []
+            },
+            "location_tenants": {
+                "data": [
+                    {
+                        "id": 7,
+                        "type": "location_tenant"
+                    }
+                ]
+            },
+            "location_cities": {
+                "data": []
+            },
+            "modality": {
+                "data": {
+                    "id": 1,
+                    "type": "modality"
+                }
+            },
+            "seniority": {
+                "data": {
+                    "id": 4,
+                    "type": "seniority"
+                }
+            },
+            "tags": {
+                "data": [
+                    {
+                        "id": 1,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 2,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 34,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 49,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 51,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 74,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 104,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 107,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 138,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 204,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 225,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 253,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 259,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 299,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 422,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 583,
+                        "type": "tag"
+                    },
+                    {
+                        "id": 588,
+                        "type": "tag"
+                    }
+                ]
+            },
+            "company": {
+                "data": {
+                    "id": 9616,
+                    "type": "company"
+                }
+            }
+        },
+        "links": {
+            "public_url": "https://www.getonbrd.com/jobs/java-angular-fullstack-developer-ensitech-remote"
+        }
+    }
+]
